@@ -1,4 +1,4 @@
 name: MoveMeNow
-main: net.craftminecraft.bungee.movemenow.MoveMeNow
-version: ${pom.version}-${build.number}
+main: me.subtypezero.bungee.movemenow.MoveMeNow
+version: 1.3-BETA
 author: roblabla
